@@ -1,0 +1,8 @@
+In this project:
+We conduct experiments based on 'bank.csv' - a dataset containing attributes
+related to direct marketing campaign results collected by a Portuguese banking institution.
+
+Our goal is to build a machine-learning model using the 'Decision Tree Classifier' to predict if a client will
+subscribe (yes/no) to a term deposit (variable y). 
+
+To evaluate its performance, we will use the 10-fold cross validation metric.
